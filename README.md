@@ -26,7 +26,7 @@ This setting enables the AWS CLI v2 to load JSON events from a file, matching th
 # Setup
 Download or clone this repository.
 
-    $ git clone https://TODO
+    $ git clone https://github.com/GaetanoPiazzolla/lambda-deploy-tracing.git
 
 To create a new bucket for deployment artifacts, run `1-create-bucket.sh`.
 
@@ -78,4 +78,4 @@ To enable lumigo integration, copy the token from the portal and then run `5-lum
     ...
 
 ### Code started from https://github.com/awsdocs/aws-lambda-developer-guide including only one Lambda java-basic handler, using only gradle.
-### Related to medium article: 
+### Related to medium article: TODO
